@@ -1,2 +1,2 @@
 life: life.c
-	g++ life.c -o life
+	g++ life.c -o life -lncurses
